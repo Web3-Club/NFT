@@ -10,6 +10,7 @@
 <img alt="Web3 Club" height="500" src="https://github.com/Web3-Club/NFT/assets/76860915/9599a426-2b35-4e4c-845f-6fbad1d3d4e2" width="500"/>
 
 简介：
+
 Web3Club的LOGO制作的NFT 
 
 未来将作为社区激励 以及 赞助支持来进行流通
