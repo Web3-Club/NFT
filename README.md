@@ -5,6 +5,16 @@
 
 ## NFTs
 
+
+
+### First contribution.
+
+![First contribution](https://github.com/Web3-Club/NFT/assets/76860915/bc4c5435-c30f-47ee-9fbd-545c862a18f7)
+
+<br>
+<br>
+<br>
+
 ### Web3Club
 
 <img alt="Web3 Club" height="500" src="https://github.com/Web3-Club/NFT/assets/76860915/9599a426-2b35-4e4c-845f-6fbad1d3d4e2" width="500"/>
@@ -44,19 +54,6 @@ Opensea:[Web3Club](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a8
 
 
 ![To always focus on the progress of knowledge and technology, not the price](https://github.com/Web3-Club/NFT/assets/76860915/142f7fa9-01a6-4c07-a1aa-5477e0ae60e1)
-
-
-
-<br>
-<br>
-<br>
-
-
-### First contribution.
-
-![First contribution](https://github.com/Web3-Club/NFT/assets/76860915/bc4c5435-c30f-47ee-9fbd-545c862a18f7)
-
-
 
 
 
