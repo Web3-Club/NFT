@@ -3,7 +3,9 @@
 
 为了我们组织 未来建立DAO前的准备，发行NFT来作为社区贡献激励、赞助支持、活动奖励是很有必要的。
 
-## Web3Club
+## NFTs
+
+### Web3Club
 
 ![Web3 Club](https://github.com/Web3-Club/NFT/assets/76860915/9599a426-2b35-4e4c-845f-6fbad1d3d4e2)
 
