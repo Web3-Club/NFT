@@ -14,3 +14,7 @@
 合约地址:0x2953399124F0cBB46d2CbACD8A89cF0599974963
 
 Opensea:[Web3Club](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/84925260858913545797852925791820662612596522839900474158736812801772585224471)
+
+### Slogan
+
+**To always focus on the progress of knowledge and technology, not the price.**
