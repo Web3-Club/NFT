@@ -11,6 +11,15 @@
 
 ![First contribution](https://github.com/Web3-Club/NFT/assets/76860915/bc4c5435-c30f-47ee-9fbd-545c862a18f7)
 
+
+简介：每一个 首次为Web3Club的 GitHub 做出贡献的朋友 
+
+可以将自己的erc20钱包地址（支持Polygon）
+
+以及GitHub ID 发至 web3clubCN@outlook.com 
+
+您将在1-5天收到我们给您的 **First contribution.NFT**
+
 <br>
 <br>
 <br>
