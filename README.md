@@ -17,7 +17,7 @@ Opensea:[Web3Club](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a8
 
 ### Slogan
 
-**To always focus on the progress of knowledge and technology, not the price.**
+***“To always focus on the progress of knowledge and technology, not the price.”***
 
 
 ![To always focus on the progress of knowledge and technology, not the price](https://github.com/Web3-Club/NFT/assets/76860915/142f7fa9-01a6-4c07-a1aa-5477e0ae60e1)
