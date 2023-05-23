@@ -3,6 +3,8 @@
 
 为了我们组织 未来建立DAO前的准备，发行NFT来作为社区贡献激励、赞助支持、活动奖励是很有必要的。
 
+我们所有的NFT都在Layer2网络Polygon上进行部署
+
 ## NFTs
 
 <br>
@@ -14,7 +16,7 @@
 
 简介：每一个 首次为Web3Club的 GitHub 做出贡献的朋友 
 
-可以将自己的erc20钱包地址（支持Polygon）
+可以将自己的erc20钱包地址（需要支持Polygon网络）
 
 以及GitHub ID 发至 web3clubCN@outlook.com 
 
@@ -64,7 +66,13 @@ Opensea:[Web3Club](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a8
 
 ![To always focus on the progress of knowledge and technology, not the price](https://github.com/Web3-Club/NFT/assets/76860915/142f7fa9-01a6-4c07-a1aa-5477e0ae60e1)
 
+未来我们在开发知识学习交互类产品时 
 
+将会将此NFT作为奖励 进行mint后发放
+
+发行量：100000
+
+Opensea：
 
 
 
