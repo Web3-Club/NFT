@@ -45,6 +45,41 @@
 <br>
 <br>
 
+### Wiki contribution.
+
+![wiki](https://github.com/Web3-Club/NFT/assets/76860915/b11849bd-ac5e-4f83-b68a-febcf2e268a0)
+
+简介：
+
+Web3Wiki的贡献者奖励
+
+任何在GitHub贡献过Web3Wiki内容或者代码的朋友
+
+均有机会获得该NFT
+
+可以将自己的erc20钱包地址（需要支持Polygon网络）
+
+以及GitHub ID 发至 web3clubCN@outlook.com
+
+您将在1-5天收到我们给您的 Wiki contribution.NFT
+
+（您不需要支付任何链上转账费用）
+
+#### 具体信息
+
+
+发行量:100000
+
+合约地址:0x2953399124F0cBB46d2CbACD8A89cF0599974963
+
+代币ID：84925260858913545797852925791820662612596522839900474158736812806170631833248
+
+
+
+<br>
+<br>
+<br>
+
 ### Web3Club
 
 <img alt="Web3 Club" height="500" src="https://github.com/Web3-Club/NFT/assets/76860915/9599a426-2b35-4e4c-845f-6fbad1d3d4e2" width="500"/>
